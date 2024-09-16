@@ -647,4 +647,4 @@ int main() {
 ![Screenshot 2024-09-16 091709](https://github.com/user-attachments/assets/3c982e56-143d-4237-9903-e1ebc0e52ab7)
 
 ## Result 
-The Program for rail fence is Executed Sucessgfully.
+The Program for rail fence is Executed Sucessfully.
